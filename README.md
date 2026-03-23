@@ -2,6 +2,12 @@
 
 **Proper Steering Fix** is an `.asi` plugin for **GTA V** that disables the game’s native wheel auto-centering behavior when exiting vehicles, with full support for both **Legacy** and **Enhanced** builds.
 
+[![Latest Release](https://img.shields.io/github/v/release/YOURUSER/YOURREPO?include_prereleases&label=Latest%20Release)](https://github.com/Nochal/Proper-Steering-Fix/releases/latest)
+![Language](https://img.shields.io/badge/LANGUAGE-C%23-239120?logo=csharp&logoColor=white)
+![Platform](https://img.shields.io/badge/PLATFORM-GTA%20V-111111)
+![Type](https://img.shields.io/badge/TYPE-.ASI%20Plugin-8A2BE2)
+![Support](https://img.shields.io/badge/SUPPORT-Legacy%20%7C%20Enhanced-0A84FF)
+![Status](https://img.shields.io/badge/STATUS-Release%20Ready-2EA043)
 ---
 
 ## Features
