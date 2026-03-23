@@ -1,0 +1,6 @@
+﻿  ProperSteeringFix.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SteeringFix.vcxproj -> D:\VirtualStudioProjects\Proper Steering Fix\ProperSteeringFix\bin\Release\ProperSteeringFix.asi
