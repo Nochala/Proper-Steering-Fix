@@ -36,7 +36,7 @@
 ## Changelog
 
 ### v1.1.1
--Updated License
+- Updated License
 
 ### v1.1.0
 - Reworked the entire Enhanced patch
